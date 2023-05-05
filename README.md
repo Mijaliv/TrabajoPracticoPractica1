@@ -6,3 +6,7 @@ Banana
 Sandia
 Naranja
 Melon
+VERDURAS 
+ZANAHORIA 
+CEBOLLA
+TOMATE
