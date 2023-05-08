@@ -6,3 +6,13 @@ Banana
 Sandia
 Naranja
 Melon
+<<<<<<< HEAD
+=======
+VERDURAS 
+ZANAHORIA 
+CEBOLLA
+LECHUGA
+ESPINACA 
+CHOCLO
+ZAPALLO
+>>>>>>> rama-andrea
