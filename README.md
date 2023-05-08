@@ -13,3 +13,4 @@ LECHUGA
 ESPINACA 
 CHOCLO
 zapallito
+PAPA
